@@ -1,11 +1,18 @@
 # CMPT 120 Resources, Computing Science SFU
 
-## Sample Exams
+## Sample Exams (Multiple Choice)
 
-**Sample 1 exam** - [Folder of exams](exams/sample1)
-- 60 multiple choice questions covering most topics from the the CMPT 120
-  calendar
-- Formats: [PDF](exams/sample1/120_MCQ_final_sample_1.pdf), [PDF with solutions](exams/sample1/120_MCQ_final_sample_1_sol.pdf), [Word](exams/sample1/120_MCQ_final_sample_1.docx), [Word with solutions](exams/sample1/120_MCQ_final_sample_1_sol.docx)
+[Sample exam 1](exams/sample1)
+- PDF: [questions only](exams/sample1/120_MCQ_final_sample_1.pdf),
+[solutions](exams/sample1/120_MCQ_final_sample_1_sol.pdf)
+- Word: [questions only](exams/sample1/120_MCQ_final_sample_1.docx),
+[solutions](exams/sample1/120_MCQ_final_sample_1_sol.docx)
+
+[Sample exam 2](exams/sample2)
+- PDF: [questions only](exams/sample2/120_MCQ_final_sample_2.pdf)
+[solutions](exams/sample2/120_MCQ_final_sample_2_sol.pdf)
+- Word: [questions only](exams/sample2/120_MCQ_final_sample_2.docx)
+[solutions](exams/sample1/120_MCQ_final_sample_2_sol.docx)
 
 ## Other Resources
 
