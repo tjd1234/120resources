@@ -14,6 +14,12 @@
 - Word: [questions only](exams/sample2/120_MCQ_final_sample_2.docx)
 [solutions](exams/sample1/120_MCQ_final_sample_2_sol.docx)
 
+[Sample exam 3](exams/sample3)
+- PDF: [questions only](exams/sample3/120_MCQ_final_sample_3.pdf)
+[solutions](exams/sample3/120_MCQ_final_sample_3_sol.pdf)
+- Word: [questions only](exams/sample3/120_MCQ_final_sample_3.docx)
+[solutions](exams/sample3/120_MCQ_final_sample_3_sol.docx)
+
 ## Other Resources
 
 - [Number Partition](number_partition/README.md) is a Jupyter notebook that
@@ -25,4 +31,4 @@
 Thank you to the past instructors of CMPT 120 for sharing their exams and
 questions. 
 
-Thank you to Jiang Yang for providing fixes to errors in the sample exams.
+Thank you to Jiang Yang for providing many fixes to errors in the sample exams.
