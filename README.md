@@ -4,21 +4,21 @@
 
 [Sample exam 1](exams/sample1)
 - PDF: [questions only](exams/sample1/120_MCQ_final_sample_1.pdf);
-[solutions](exams/sample1/120_MCQ_final_sample_1_sol.pdf)
+[questions and solutions](exams/sample1/120_MCQ_final_sample_1_sol.pdf)
 - Word: [questions only](exams/sample1/120_MCQ_final_sample_1.docx);
-[solutions](exams/sample1/120_MCQ_final_sample_1_sol.docx)
+[questions and solutions](exams/sample1/120_MCQ_final_sample_1_sol.docx)
 
 [Sample exam 2](exams/sample2)
 - PDF: [questions only](exams/sample2/120_MCQ_final_sample_2.pdf); 
-[solutions](exams/sample2/120_MCQ_final_sample_2_sol.pdf)
+[questions and solutions](exams/sample2/120_MCQ_final_sample_2_sol.pdf)
 - Word: [questions only](exams/sample2/120_MCQ_final_sample_2.docx); 
-[solutions](exams/sample1/120_MCQ_final_sample_2_sol.docx)
+[questions and solutions](exams/sample1/120_MCQ_final_sample_2_sol.docx)
 
 [Sample exam 3](exams/sample3)
 - PDF: [questions only](exams/sample3/120_MCQ_final_sample_3.pdf); 
-[solutions](exams/sample3/120_MCQ_final_sample_3_sol.pdf)
+[questions and solutions](exams/sample3/120_MCQ_final_sample_3_sol.pdf)
 - Word: [questions only](exams/sample3/120_MCQ_final_sample_3.docx); 
-[solutions](exams/sample3/120_MCQ_final_sample_3_sol.docx)
+[questions and solutions](exams/sample3/120_MCQ_final_sample_3_sol.docx)
 
 ## Other Resources
 
